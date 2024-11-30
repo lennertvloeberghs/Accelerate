@@ -368,8 +368,8 @@ if (!isMobile) {
     }
 
     let scale = 4
-    let logo = new InteractableObject(new THREE.Vector3(-20, 0.0, 8), 'https://www.jonasmangelschots.com/src/logo.glb', new THREE.Vector3(scale, scale, scale))
-    let logo2 = new InteractableObject(new THREE.Vector3(21, 0.0, 22), 'https://www.jonasmangelschots.com/src/logo.glb', new THREE.Vector3(scale * 0.8, scale * 0.8, scale * 0.8))
+    let logo = new InteractableObject(new THREE.Vector3(-20, 0.0, 8), 'https://lennertvloeberghs.github.io/Accelerate/website/3D/logo.glb', new THREE.Vector3(scale, scale, scale))
+    let logo2 = new InteractableObject(new THREE.Vector3(21, 0.0, 22), 'https://lennertvloeberghs.github.io/Accelerate/website/3D/logo.glb', new THREE.Vector3(scale * 0.8, scale * 0.8, scale * 0.8))
 
     /**
      * Sizes
